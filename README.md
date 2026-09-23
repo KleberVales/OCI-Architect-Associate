@@ -189,12 +189,6 @@
 ### 16.4 NFS Export Options
 ### 16.5 File System Paths
 
-
-
-
-
-
-
-
+## 17. File Storage - advanced
 
 
