@@ -1,7 +1,5 @@
 # OCI-Architect-Associate
 
-# OCI Architect Associate
-
 ## 1. Identity and Access Management Overview
 
 ### 1.1 Introduction to OCI IAM 
