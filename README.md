@@ -196,7 +196,5 @@
 ### 17.3 File System Cloning
 ### 17.4 In-transit Encryption
 ### 17.5 File System Replication
-
-
-
-
+### 17.6 File System Security
+### 17.7 File System Usage and Metering
