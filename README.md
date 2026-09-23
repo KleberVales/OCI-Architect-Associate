@@ -48,7 +48,136 @@
 ### 4.13 Network Security Groups
 ### 4.14 Security Lists
 
+## 5. Networking - IP Management
 
+### 5.1 Module Overview
+### 5.2 Overview of IP Management - Part 1
+### 5.3 Reserved Public IP
+### 5.4 BYOIP
+### 5.5 Public IP Pools
 
+## 6. Networking - Connectivity
 
+### 6.1 Module Overview
+### 6.2 VCN Connectivity Options
+### 6.3 Local VCN Peering 
+### 6.4 Remote VCN Peering
+### 6.5 BGP Basics
+### 6.6 Dynamic Routing Gateway 
+### 6.7 Site-to-Site VPN 
+### 6.8 Fast Connect Overview - Part 1
+### 6.9 Fast Connect With an Oracle Partner
+### 6.10 Fast Connect With a Third-Party Provider
+### 6.11 Fast Connect Colocation with Oracle
+### 6.12 FastConnect Redundancy Best Practices
+### 6.13 Transit Routing Scenarios
+
+## 7. Networking - Load Balancer
+
+### 7.1 Load Balancer 
+### 7.2 Load Balancer Policies
+### 7.3 Healthchecks
+### 7.4 Public Load Balancer
+### 7.5 Private Load Balancer
+### 7.6 Network Load Balancer
+### 7.7 Web Application Acceleration Overview
+### 7.8 Web Application Acceleration Concepts
+
+## 8. Networking - DNS Management
+
+### 8.1 Module Overview
+### 8.2 What is DNS?
+### 8.3 DNS Service Components
+### 8.4 Zones
+### 8.5 Public DNS Zones
+### 8.6 Private DNS Zones
+### 8.7 Private Views
+### 8.8 HTTP redirects
+### 8.9 Traffic Management
+### 8.10 Traffic Management-Policy Types
+
+## 9. Networking - Network Command Center
+
+### 9.1 Module Overview
+### 9.2 Network Command Center Overview
+### 9.3 Inter-Region Latency
+### 9.4 Network Path Analyzer
+### 9.5 Network Visualizer
+### 9.6 Capture filters
+### 9.7 Virtual Test Access Points
+
+## 10. Compute - basic
+
+### 10.1 Module Overview
+### 10.2 Overview of Compute Service
+### 10.3 Platform and Custom Images
+### 10.4 Import Export and BYOI
+### 10.5 Compute Shapes
+### 10.6 GPU Shapes
+### 10.7 Bare Metal vs Virtual Machine vs Dedicated Hosts
+### 10.8 Capacity Types Preemptible Instances
+### 10.9 Capacity Types Capacity Reservations
+### 10.10 Capacity Types Dedicated VM Host
+### 10.11 Dedicated VM Host
+
+## 11. Compute - advanced
+
+### 11.1 Module Overview
+### 11.2 Burstable Instances
+### 11.3 Compute Vertical Scaling
+### 11.4 Compute AutoScaling
+### 11.5 Oracle Cloud Agent
+### 11.6 Oracle OS Management Hub
+### 11.7 OS Management Hub - Workflow
+### 11.8 OS Management Hub - Components
+### 11.9 OS Management Hub for OCI Instances
+### 11.10 Run Command
+### 11.11 Instance Console Connection
+### 11.12 Infrastructure Maintenance
+### 11.13 Shielded Instances
+### 11.14 Confidential Computing
+
+## 12. Object Storage - basic
+
+### 12.1 Module Overview
+### 12.2 Overview of Object Storage
+### 12.3 Object Storage Resources
+### 12.4 Object Storage Characteristics
+### 12.5 Multipart Uploads
+### 12.6 Managing Buckets and Objects
+### 12.7 Object Storage Tiers
+### 12.8 Auto-Tiering
+### 12.9 Object Lifecycle Management
+
+## 13. Object Storage - Advanced
+
+### 13.1 Module Overview
+### 13.2 Object Storage Replication
+### 13.3 Object Versioning
+### 13.4 Retention Rules
+### 13.5 Object Copy
+### 13.6 Object Storage Logging
+### 13.7 Securing Object Storage
+### 13.8 Pre-Authenticated Requests
+
+## 14. Block Storage - basic
+
+### 14.1 Module Overview
+### 14.2 Overview of Block Volume
+### 14.3 Volume Attachment Types
+### 14.4 Volume Access Types
+### 14.5 Boot Volumes
+### 14.6 Block Volume Performance
+### 14.7 Dynamic performance scaling
+
+## 15. Block Storage - advanced
+
+### 15.1 Module Overview
+### 15.2 Resizing a Volume
+### 15.3 Block Volume Backups
+### 15.4 Block Volume Clones
+### 15.5 Block Volume Backup vs Clone Operation
+### 15.6 Block Volume: Cross-Region Replication
+### 15.7 Volume Groups
+### 15.8 Block Volume: Cross Availability Domain Replication
 
