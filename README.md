@@ -194,6 +194,9 @@
 ### 17.1 Module Overview
 ### 17.2 File System Snapshots
 ### 17.3 File System Cloning
+### 17.4 In-transit Encryption
+### 17.5 File System Replication
+
 
 
 
