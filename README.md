@@ -212,6 +212,9 @@
 🏆 **Oracle Cloud Infrastructure – Generative AI Professional**  
 🏆 **Agentic AI Certified Fundations Associate**
 
+🎓 **Bachelor's Degree in Computer Science**  
+
+
 
 
 
